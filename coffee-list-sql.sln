@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "coffee-list-sql", "coffee-list-sql\coffee-list-sql.ssmssqlproj", "{111CCF5F-49A9-ED0B-E30E-98765ED0347C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111CCF5F-49A9-ED0B-E30E-98765ED0347C}.Default|Default.ActiveCfg = Default
+		{2262AB8E-A816-4FA8-BE78-4942DB15C408}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC765887-B132-49FE-91A8-32C9B23013D4}
+	EndGlobalSection
+EndGlobal
